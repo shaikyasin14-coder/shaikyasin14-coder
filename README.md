@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Shaik Yasin 👋
 
-<!--
-**shaikyasin14-coder/shaikyasin14-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android developer focused on building practical, privacy-respecting mobile apps.
 
-Here are some ideas to get you started:
+### 🚀 Currently building
+- **Salah: Prayer Times & Quran** — an Android app providing accurate prayer times, Qibla direction, and Quran access, powered by the Aladhan and AlQuran.cloud APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech & tools
+- Android app development
+- REST API integration
+- Google Play Services & AdMob
+
+### 📫 Contact
+- Email: salahapp.support@gmail.com
+
+Thanks for stopping by!
